@@ -1,0 +1,1 @@
+[![Build status](https://ci.appveyor.com/api/projects/status/c7ntdkkl10tyjvx3?svg=true)](https://ci.appveyor.com/project/fat0n/net-autopostmanecho)
